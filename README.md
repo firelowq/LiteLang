@@ -16,7 +16,7 @@ LiteLang, yapım aşamasında Türkçe sade bir sözdizimine sahip minimal ChatG
 
 ## 🔧 Kurulum
 
-Releases Kısmında Demo'ya git Aşağı indir ve LiteLangDemo.zip dosyasını indir (tıkla) Sonra zip dosyasını klasöre çıkart LiteLangDemo.exe yi çalıştır.
+Releases Kısmında LiteLang Demo'ya git Aşağı indir ve LiteLangDemo.zip dosyasını indir (tıkla) Sonra zip dosyasını klasöre çıkart LiteLangDemo.exe yi çalıştır.
 
 ---
 
